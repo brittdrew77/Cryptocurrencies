@@ -1,1 +1,2 @@
 # Cryptocurrencies
+The purpose of this project was to create a report about what cryptocurrencies were on the trading market and to group them to create a new classification system. I used unsupervised learning and grouped based on a clustering algorithm. I focused on preprocessing data for PCA, reducing data dimensions using PCA, clustering cryptocurrencies using K-means, and visualizing those results. 
